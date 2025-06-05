@@ -8,6 +8,8 @@
 
 ![Gabriel Tobar Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Tobar&show_icons=true&theme=radical)
 
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tobar)](https://github.com/Gabriel-Tobar/github-readme-stats)
+
 ## Technologies I use in my daily life 🤖
 
 <div style="display: inline_block"><br/>
